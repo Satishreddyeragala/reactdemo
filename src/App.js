@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { BrowserRouter,HashRouter Route, Routes } from 'react-router-dom'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 import Nav from './comp/Nav'
 import Home from './comp/home'
 import Cart from './comp/Cart'
