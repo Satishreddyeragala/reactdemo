@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter,HashRouter Route, Routes } from 'react-router-dom'
 import Nav from './comp/Nav'
 import Home from './comp/home'
 import Cart from './comp/Cart'
@@ -59,7 +59,7 @@ let del=(i)=>{
 }
 
 
-  return (<BrowserRouter>
+  return (<HashRouter>
 
   <Nav/>
   <Routes>
@@ -69,7 +69,7 @@ let del=(i)=>{
   </Routes>
 
   
-  </BrowserRouter>
+  </HashRouter>
   )
 }
 
