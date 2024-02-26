@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Satishreddyeragala/reactdemo.git/static/css/main.625ff926.css",
+    "main.js": "/Satishreddyeragala/reactdemo.git/static/js/main.ed37fbeb.js",
+    "static/js/592.9d1ec876.chunk.js": "/Satishreddyeragala/reactdemo.git/static/js/592.9d1ec876.chunk.js",
+    "index.html": "/Satishreddyeragala/reactdemo.git/index.html",
+    "main.625ff926.css.map": "/Satishreddyeragala/reactdemo.git/static/css/main.625ff926.css.map",
+    "main.ed37fbeb.js.map": "/Satishreddyeragala/reactdemo.git/static/js/main.ed37fbeb.js.map",
+    "592.9d1ec876.chunk.js.map": "/Satishreddyeragala/reactdemo.git/static/js/592.9d1ec876.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625ff926.css",
+    "static/js/main.ed37fbeb.js"
+  ]
+}
