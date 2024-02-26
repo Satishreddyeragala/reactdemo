@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Satishreddyeragala/reactdemo.git/static/css/main.625ff926.css",
-    "main.js": "/Satishreddyeragala/reactdemo.git/static/js/main.ed37fbeb.js",
-    "static/js/592.9d1ec876.chunk.js": "/Satishreddyeragala/reactdemo.git/static/js/592.9d1ec876.chunk.js",
-    "index.html": "/Satishreddyeragala/reactdemo.git/index.html",
-    "main.625ff926.css.map": "/Satishreddyeragala/reactdemo.git/static/css/main.625ff926.css.map",
-    "main.ed37fbeb.js.map": "/Satishreddyeragala/reactdemo.git/static/js/main.ed37fbeb.js.map",
-    "592.9d1ec876.chunk.js.map": "/Satishreddyeragala/reactdemo.git/static/js/592.9d1ec876.chunk.js.map"
+    "main.css": "/reactdemo/static/css/main.625ff926.css",
+    "main.js": "/reactdemo/static/js/main.900177a6.js",
+    "static/js/592.9d1ec876.chunk.js": "/reactdemo/static/js/592.9d1ec876.chunk.js",
+    "index.html": "/reactdemo/index.html",
+    "main.625ff926.css.map": "/reactdemo/static/css/main.625ff926.css.map",
+    "main.900177a6.js.map": "/reactdemo/static/js/main.900177a6.js.map",
+    "592.9d1ec876.chunk.js.map": "/reactdemo/static/js/592.9d1ec876.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.625ff926.css",
-    "static/js/main.ed37fbeb.js"
+    "static/js/main.900177a6.js"
   ]
 }
